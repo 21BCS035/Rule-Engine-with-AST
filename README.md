@@ -29,7 +29,8 @@ This application is a rule engine that determines user eligibility based on attr
 
 1. **Clone the Repository**
    ```bash
-   cd rule-engine
+   https://github.com/21BCS035/Rule-Engine-with-AST.git
+   cd Rule-Engine-With-AST-Main
    ```
 
 2. **Install Backend Dependencies**
@@ -130,4 +131,4 @@ variable operator value
 
 You can add and run tests to ensure everything is working correctly. 
 ```
-created bt: santosh sahoo
+Created By: Arpit Yadav
